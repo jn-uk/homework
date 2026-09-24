@@ -1,0 +1,20 @@
+body {
+    background-color: #f0f8ff;
+    font-family: "Microsoft Yahei", sans-serif;
+    text-align:center;
+}
+h1 {
+    color: #2266bb;
+}
+p {
+    font-size:18px;
+}
+img{
+    max-width:50%;
+    border-radius:12px;
+    cursor:pointer;
+}
+.tip{
+    font-size:24px;
+    color:#333333;
+}
